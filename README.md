@@ -5,3 +5,5 @@ Scope:
 - Integrate Google Cloud Vision API to analyze and detect explicit content in images.
 - Automate image moderation workflows using UiPath.
 - Manage configurations and handle exceptions effectively.
+
+Complete details here: [Project Overview.docx](https://github.com/user-attachments/files/17163021/Project.Overview.docx)

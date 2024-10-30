@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome (3) Home  X",
+  "Type": "Screen",
+  "Id": "iS_4p4YBdk-Rz1DybL8Ezg",
+  "Reference": "Hk6nZWaE9029kiVBcZDzkA/iS_4p4YBdk-Rz1DybL8Ezg",
+  "ParentRef": "Hk6nZWaE9029kiVBcZDzkA/lXQzdd0ogkywhf-RXDfMKA",
+  "Created": "2024-10-26T16:09:18.0482542Z",
+  "Updated": "2024-10-26T16:09:18.0482542Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

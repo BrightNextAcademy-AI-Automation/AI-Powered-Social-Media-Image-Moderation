@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome (3) Home  X",
+  "Type": "App",
+  "Id": "p7SMkNWRTEatgddLj2ttNQ",
+  "Reference": "Hk6nZWaE9029kiVBcZDzkA/p7SMkNWRTEatgddLj2ttNQ",
+  "Created": "2024-10-26T16:09:17.7629543Z",
+  "Updated": "2024-10-26T16:09:17.7629543Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

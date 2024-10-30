@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Bounds.png",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "0f10EJn-M0Onbs02o1-TQA",
+  "Reference": "Hk6nZWaE9029kiVBcZDzkA/0f10EJn-M0Onbs02o1-TQA",
+  "ParentRef": "Hk6nZWaE9029kiVBcZDzkA/9vdocILJdESurCfvZbyCTQ",
+  "Created": "2024-10-27T07:12:28.1221235Z",
+  "Updated": "2024-10-27T07:12:28.1221235Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

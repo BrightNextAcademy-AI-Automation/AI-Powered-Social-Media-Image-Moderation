@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome (2) Home  X",
+  "Type": "Screen",
+  "Id": "9vdocILJdESurCfvZbyCTQ",
+  "Reference": "Hk6nZWaE9029kiVBcZDzkA/9vdocILJdESurCfvZbyCTQ",
+  "ParentRef": "Hk6nZWaE9029kiVBcZDzkA/lXQzdd0ogkywhf-RXDfMKA",
+  "Created": "2024-10-27T07:02:46.883208Z",
+  "Updated": "2024-10-27T07:02:46.883208Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

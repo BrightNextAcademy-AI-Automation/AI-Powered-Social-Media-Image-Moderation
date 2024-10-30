@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nTRF7Mwy6kSTFEtKWWpY1A" Reference="Hk6nZWaE9029kiVBcZDzkA/EDFym9BddUefY8yWuFIl6g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="x.com/compose/post" CVScreenId="be76255f-f754-4486-a6f8-57cb2ab04096" CvElementArea="547, 676, 30, 30" CvType="Icon" DesignTimeRectangle="550, 678, 26, 26" DesignTimeScaleFactor="1.5" ElementType="Icon" FuzzyMatches="10000" FuzzySelectorArgument="&lt;webctrl type='' tag='path' class='' aaname='' /&gt;" Guid="b0c69576-1901-4a32-82b3-511f39a95908" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAHjSURBVEhLvZZNLwNRFIb7MUMrMW219LskqhYljRUJOxK0iAUbEjs7EvERkq6kG9Ig3bDgB/gV1hI7lbAQscTKP7jmDOfM3PZOq9PS5EnuPe/c83Ru5k5rUz/snxAW/wLDxO5gcizN2gcnmgJ6QC+uNw6knn4WLtyx+OVnSwgd3jKpu69CpNohEC1ohmD+hhdJoQEKfStF4XY0gm/1hPpJgV5dBCEGMP4JLGPSr77I4VaYHEpV1c2wJOoYXWaxi3ct869fMZtD4nIRlkTRsxfKANfQFJeLsCSKHD9QpuXJMS4XYUnkHplTt+5Dy7rWSlyGKPP7Gji3JALgYZCCyao6oOR2aS2ModawSPInVOI0r0TJ7tA6BGoNiUASPiqr3DOnL0LNESW7TWu+ryvTPLBxTeOaIqc3zC2EMdRQ0jm9SVmk+KjdNQBjrCO8KDVOAZwbowRBmUiCX0AkM72j2PkbjT0LBxo4N56pSPFJ216UIFCDDK8zFSEgwMWexTyXmUkQONR4bU2RUYJ4lwpaVrldIoz9TEXQEBdUosxs1ZUAvxIZAsuYitoSGQrgdEPYDEpuj/rJ8WFdZJddLFp6pbBVRE+fmd0p6yLAnZmll2crgN8wV3oSJboIgH8toq2wAv/Q2NgXzRRdIbSWEuYAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='chrome.exe' title='(2) Home / X' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="536, 664, 54, 54" FuzzySelectorArgument="&lt;webctrl type='' parentid='layers' tag='DIV' class='css-146c3p1 r-bcqeeo r-qvutc0 r-37j5jr r-q4m81j r-a023e6 r-rjixqe r-b88u0q r-1awozwy r-6koalj r-18u37iz r-16y2uox r-1777fci' aaname='' /&gt;" Guid="3a493ede-17a6-403b-ab9f-312238fa677e" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7dd08cf39a93672aa14a9810fd4a59ab.png" xmlns="">04t_S7Bj6Z0aCT5t9K6ijMA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

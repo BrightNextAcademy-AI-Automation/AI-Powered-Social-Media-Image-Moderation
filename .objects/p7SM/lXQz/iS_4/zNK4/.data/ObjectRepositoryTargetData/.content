@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dvepwvp72EyGwJ-G3-pStw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="x.com/home" CVScreenId="513e8f7d-0b41-4c64-827c-356b70256006" CvTextArea="195, 864, 39, 37" CvTextArgument="*Ø" CvType="Text" DesignTimeRectangle="198, 867, 36, 36" DesignTimeScaleFactor="1.5" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl type='' parentid='react-root' tag='svg' class='r-4qtqp9 r-yyyyoo r-dnmrzs r-bnwqim r-lrvibr r-m6rgpd r-1472mwg r-lrsllp' aaname='' /&gt;" Guid="af75c468-d1c2-4491-9935-c2b20e60454d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='(3) Home / X' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1dd4297b5e933d51b238bab2eb8a7f54.png" xmlns="">0QCjCkHMjrkaEM8IxWqR_Yg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
